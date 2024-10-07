@@ -10,10 +10,10 @@ My track record includes:
 • Demonstrating adaptability across business operations, driving success through innovation.
 
 ## Skills and Experiences 
-*🐍 Python 
+* 🐍 Python 
 * ⚛️Java
 * 🕸️ Css /Javascript / Html / C++ 
-* ©️ C++
+*  ©️ C++
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atherjnoor)](https://github.com/anuraghazra/github-readme-stats)
 
