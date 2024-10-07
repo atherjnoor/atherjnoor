@@ -15,7 +15,8 @@ My track record includes:
 * 🕸️ Css /Javascript / Html / C++ 
 *  ©️ C++
 
-(https://github-readme-stats.vercel.app/api?username=atherjnoor&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 
