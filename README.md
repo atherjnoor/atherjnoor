@@ -16,6 +16,7 @@ My track record includes:
 *  ©️ C++
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atherjnoor&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atherjnoor&show_icons=true&theme=radical)
 
 
 
