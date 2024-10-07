@@ -9,8 +9,13 @@ My track record includes:
 • Pursuing Bachelor's degrees in Economics& Finance  and certifications in Computer Science , driving a blend of analytical prowess and technical proficiency.
 • Demonstrating adaptability across business operations, driving success through innovation.
 
+## Skills and Experiences 
+*🐍 Python 
+* ⚛️Java
+* 🕸️ Css /Javascript / Html / C++ 
+* ©️ C++
 
-Skills: Python / Java , Css /Javascript / Html / C++ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atherjnoor)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
