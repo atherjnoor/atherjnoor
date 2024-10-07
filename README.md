@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋, Ather Johear Noor 
+#### Software Dev | IT Project Manager | Financial Engineer
+![Software Dev | IT Project Manager | Financial Analyst](https://media.licdn.com/dms/image/v2/D5616AQEC1vf_sEYv9Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728277972925?e=1733961600&v=beta&t=WVa9UkKmVor9qr42kAYHO0XW6U5jSAPi6WQLlqQzApI)
 
-<!--
-**atherjnoor/atherjnoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ather, a versatile professional who brings a wealth of experience in software development, finance and project coordination. 
 
-Here are some ideas to get you started:
+My track record includes:
+• Effectively managing projects and teams as a Project Coordinator 
+• Pursuing Bachelor's degrees in Economics& Finance  and certifications in Computer Science , driving a blend of analytical prowess and technical proficiency.
+• Demonstrating adaptability across business operations, driving success through innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills: Python / Java , Css /Javascript / Html / C++ 
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/atherjnoor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ather-johear-noor-621541278//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://atherjohearn.wixsite.com/my-website)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/atherjnoor&show_icons=true)  
+
