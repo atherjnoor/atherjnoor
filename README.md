@@ -17,6 +17,7 @@ My track record includes:
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atherjnoor&show_icons=true&theme=radical)
 
 
 
