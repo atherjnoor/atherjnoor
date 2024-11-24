@@ -67,22 +67,22 @@ Here’s what I use to craft my solutions:
 ---
 
 # ✨ Fun Facts:
-- 🕵️‍♂️ I love solving logic puzzles and diving into data mysteries.  
-- 🎨 I enjoy designing user-friendly interfaces for my applications.  
-- 🌱 Currently learning **Django**, **AWS**, and **Docker**.  
+- 🕵️‍♂️ I love solving logic codes and diving into data mysteries.  
+- 🎨 I enjoy learning economics and finance courses and creating fintech applications.  
+- 🌱 Currently learning **Django**, **AWS**,**Java**, **React** and **Docker**.  
 
 ---
 
 # 🛠️ Projects & Open-Source Contributions:
 Here are some of my key contributions:  
-- 🔗 **[Finance AI Project](https://github.com/atherjnoor/finance-ai)**: AI-driven financial analytics tool.  
-- 🔗 **[Open Source Contribution](https://github.com/atherjnoor/open-source)**: Collaborating with communities to build impactful tools.  
+- 🔗 **[Finance AI Project](https://www.linkedin.com/feed/update/urn:li:activity:7264836033647636480/)**: AI-driven financial analytics tool.  
+- 🔗 **[Open Source Contribution](https://github.com/metakgp/iqps-go)**: Collaborating with communities to build impactful tools.  
 
 ---
 
 # 🏆 Achievements:
-- 🏅 Received **Outstanding Team Leader** award for guiding cross-functional teams.  
-- 🌟 Successfully led the development of an **AI-powered financial solution** for SMEs.  
+- 🏅 Received **Outstanding Team Leader** recommendation for guiding cross-functional teams.  
+- 🌟 Successfully led the development of an **AI-powered financial solution** for google chrome built in ai challange   
 
 ---
 
