@@ -19,7 +19,7 @@ I’m a **versatile software developer** with a unique blend of experience in **
 - Enhancing **team collaboration tools** with automation and analytics  
 
 ✅ **Academic Pursuits**:  
-- Dual Bachelor’s in **Economics & Finance**  
+- Bachelor’s in **Economics & Management**  
 - Certifications in **Computer Science** & **Business Administration**  
 
 ✅ **Professional Focus**:  
