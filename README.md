@@ -79,8 +79,7 @@ Here are some of my key contributions:
 
 ---
 
-# 🏆 Achievements:
-- 🏅 Received **Outstanding Team Leader** recommendation for guiding cross-functional teams.  
+# 🏆 Achievements: 
 - 🌟 Successfully led the development of an **AI-powered financial solution** for google chrome built in ai challange   
 
 ---
