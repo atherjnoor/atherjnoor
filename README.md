@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm **Ather Johear Noor**  
 #### 🚀 [Software Development Intern | Project Lead in AI-Driven Finance Solutions | Open Source Contributor & Data Enthusiast]  
 
-![Profile Banner](https://media.licdn.com/dms/image/v2/D5616AQEMlZMP_CJiCQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732155620705?e=1737590400&v=beta&t=Gp5Z1fUdaDDGV6whFYr1cH5h8j8gWOa0bXvve91CPqk)
+![Profile Banner](![image](https://github.com/user-attachments/assets/7ee54c82-6415-415a-8535-02cacbb4534f)
 
 I’m a **versatile software developer** with a unique blend of experience in **finance, economics**, and **project management**. My passion lies in bridging the gap between technology and business innovation.
 
