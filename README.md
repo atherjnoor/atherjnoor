@@ -18,9 +18,7 @@ I’m a **versatile software developer** with a unique blend of experience in **
 - Building AI-driven solutions for the **Finance Industry**  
 - Enhancing **team collaboration tools** with automation and analytics  
 
-✅ **Academic Pursuits**:  
-- Bachelor’s in **Economics & Management**  
-- Certifications in **Computer Science** & **Business Administration**  
+  
 
 ✅ **Professional Focus**:  
 - Software Development  
