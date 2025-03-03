@@ -7,7 +7,7 @@
 I’m a **versatile software developer** with a unique blend of experience in **finance, economics**, and **project management**. My passion lies in bridging the gap between technology and business innovation.
 
 💡 **What I bring to the table:**  
-- 🧠 Expertise in **Python**, **Java**, and **Agile methodologies**  
+- 🧠 Experience in **Python**, **Java**, and **Agile methodologies**  
 - 🔧 Hands-on experience with **open-source contributions** and building scalable solutions  
 - 📈 A unique mix of **finance**, **data analysis**, and **coding** expertise  
 
