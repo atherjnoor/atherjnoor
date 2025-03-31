@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi there 👋, I'm **Ather Johear Noor**  
-#### 🚀 [Software Development Intern | Project Lead in AI-Driven Finance Solutions | Open Source Contributor & Data Enthusiast]  
+#### 🚀 [Software Development Intern | Data Enthusiast]  
 
 ![Profile Banner](![image](https://github.com/user-attachments/assets/7ee54c82-6415-415a-8535-02cacbb4534f)
 
@@ -9,7 +9,7 @@ I’m a **versatile software developer** with a unique blend of experience in **
 💡 **What I bring to the table:**  
 - 🧠 Experience with **Python**, **Java**, and **Agile methodologies**  
 - 🔧 Hands-on experience with **open-source contributions** and building scalable solutions  
-- 📈 A unique mix of **finance**, **data analysis**, and **coding** expertise  
+- 📈 A unique mix of  **data analysis**, and **coding** expertise  
 
 ---
 
@@ -22,8 +22,8 @@ I’m a **versatile software developer** with a unique blend of experience in **
 
 ✅ **Professional Focus**:  
 - Software Development  
-- Team Coordination & Leadership  
-- Data Analytics & Visualization  
+- Team Collaboration 
+- Data Analytics   
 
 ---
 
@@ -64,8 +64,8 @@ Here’s what I use to craft my solutions:
 ---
 
 # ✨ Fun Facts:
-- 🕵️‍♂️ I love solving logic codes and diving into data mysteries.  
-- 🎨 I enjoy learning economics and finance courses and creating fintech applications.  
+- 🕵️‍♂️ I love solving logic codes  
+- 🎨 I enjoy learning economics  courses and creating fintech applications.  
 - 🌱 Currently learning **Django**, **AWS**,**Java**, **React** and **Docker**.  
 
 ---
