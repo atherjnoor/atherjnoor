@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm **Ather Johear Noor**  
 #### 🚀 [Software Development Intern | Data Enthusiast]  
 
-(![image](https://media.licdn.com/dms/image/v2/D5616AQFIzmtRxuJbDA/profile-displaybackgroundimage-shrink_350_1400/B56ZXuDbTZGQAc-/0/1743455631743?e=1749081600&v=beta&t=EjFpOta0tUry_KDgGdc0gbG7ZRdf_MHddZFJmtjzJ_Y)
+![image](https://media.licdn.com/dms/image/v2/D5616AQFIzmtRxuJbDA/profile-displaybackgroundimage-shrink_350_1400/B56ZXuDbTZGQAc-/0/1743455631743?e=1749081600&v=beta&t=EjFpOta0tUry_KDgGdc0gbG7ZRdf_MHddZFJmtjzJ_Y)
 I’m a **versatile software developer** with a unique blend of experience in **finance, economics**, and **project management**. My passion lies in bridging the gap between technology and business innovation.
 
 💡 **What I bring to the table:**  
