@@ -44,10 +44,7 @@ Here’s what I use to craft my solutions:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
-**Data Science Tools**  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+ 
 
 **Others**  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
@@ -76,9 +73,6 @@ Here are some of my key contributions:
 
 ---
 
-# 🏆 Achievements: 
-- 🌟 Successfully led the development of an **AI-powered financial solution** for google chrome built in ai challange   
 
----
 
 [![](https://visitcount.itsvg.in/api?id=atherjnoor&label=Profile%20Views&color=0&icon=5)](https://visitcount.itsvg.in)
