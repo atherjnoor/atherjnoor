@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi there 👋, I'm **Ather Johear Noor**  
-#### 🚀 Full Stack AI Developer | Data & Automation Specialist
+#### 🚀 Full Stack AI Developer | Data & Automation 
 
 ![banner](https://media.licdn.com/dms/image/v2/D5616AQFIzmtRxuJbDA/profile-displaybackgroundimage-shrink_350_1400/B56ZXuDbTZGQAc-/0/1743455631743?e=1756944000&v=beta&t=Bhm-Fm4zh9tamxyXAaN5U4OirZ8WqoZcCv3MxEnoDEI)
 
