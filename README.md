@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm **Ather Johear Noor**  
 ####  Full Stack AI Developer | Data & Automation 
 
-![banner](https://www.linkedin.com/in/ather-johear-n-621541278/overlay/background-photo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BxvhJJBZuRNyVmabX220gQw%3D%3D)
+![banner](https://media.licdn.com/dms/image/v2/D5616AQGuYuTAgi4c4w/profile-displaybackgroundimage-shrink_200_800/B56Ztr0KPSHYAc-/0/1767040403287?e=1776297600&v=beta&t=djRUbLOBGOZK80Rr-25ZI8wEpgY2_BELPq6EQvEdobM)
 
 I’m a **versatile AI developer** with a unique background in **finance**, **economics**, and **project execution**—focused on building **AI-powered tools**, automation systems, and real-world applications that deliver measurable value.
 
