@@ -1,29 +1,29 @@
-# 💫 About Me:
+#  About Me:
 ### Hi there 👋, I'm **Ather Johear Noor**  
-#### 🚀 Full Stack AI Developer | Data & Automation 
+####  Full Stack AI Developer | Data & Automation 
 
-![banner](https://media.licdn.com/dms/image/v2/D5616AQGuYuTAgi4c4w/profile-displaybackgroundimage-shrink_350_1400/B56Ztr0KPSHYAg-/0/1767040403287?e=1772668800&v=beta&t=jD0eqxusdYdZrNaFjdUM07OUh6Uz3JzyJ7f6vrXsd3M)
+![banner](https://www.linkedin.com/in/ather-johear-n-621541278/overlay/background-photo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BxvhJJBZuRNyVmabX220gQw%3D%3D)
 
 I’m a **versatile AI developer** with a unique background in **finance**, **economics**, and **project execution**—focused on building **AI-powered tools**, automation systems, and real-world applications that deliver measurable value.
 
 ---
 
-## 🌟 What I Bring
+##  What I Bring
 
-- 🧠 Proficient in **Python**, **Java**, **JavaScript**, and **AI APIs (OpenAI, LangChain)**  
-- 🔧 Built tools for **automation**, **data analysis**, and **AI chat interfaces**  
-- 📈 Skilled in turning business logic into **automated, intelligent systems**  
-- 💼 Strong understanding of product delivery using **Agile methodology**
+-  Proficient in **Python**, **Java**, **JavaScript**, and **AI APIs (OpenAI, LangChain)**  
+-  Built tools for **automation**, **data analysis**, and **AI chat interfaces**  
+-  Skilled in turning business logic into **automated, intelligent systems**  
+-  Strong understanding of product delivery using **Agile methodology**
 
 ---
 
-## 🔍 Key Focus Areas
+##  Key Focus Areas
 
-✅ **AI SaaS Projects**  
-✅ **GPT-4 & LangChain Apps**  
-✅ **Workflow Automation Tools**  
-✅ **Full Stack Web Applications (React + Node/Django)**  
-✅ **AI Chatbots & Document Analysis Tools**
+ **AI SaaS Projects**  
+ **GPT-4 & LangChain Apps**  
+ **Workflow Automation Tools**  
+ **Full Stack Web Applications (React + Node/Django)**  
+ **AI Chatbots & Document Analysis Tools**
 
 ---
 
@@ -53,7 +53,7 @@ I’m a **versatile AI developer** with a unique background in **finance**, **ec
 
 ---
 
-## 🚀 Projects & Contributions
+##  Projects & Contributions
 
 - 🔗 [**Finance AI Project**](https://www.linkedin.com/feed/update/urn:li:activity:7264836033647636480/): Real-time financial analytics with AI  
 - 🔗 [**PDF AI Q&A Bot**](https://github.com/atherjnoor): Chatbot that answers questions from uploaded PDFs using GPT-4 and LangChain  
@@ -61,7 +61,7 @@ I’m a **versatile AI developer** with a unique background in **finance**, **ec
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atherjnoor&theme=radical&show_icons=true&hide_border=false)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atherjnoor&theme=radical&hide_border=false)  
@@ -69,7 +69,7 @@ I’m a **versatile AI developer** with a unique background in **finance**, **ec
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ather-johear-noor-621541278/)  
 [![Website](https://img.shields.io/badge/Website-%23F7DF1E.svg?logo=icloud&logoColor=black)](https://atherjohearn.wixsite.com/my-website)  
@@ -79,9 +79,9 @@ I’m a **versatile AI developer** with a unique background in **finance**, **ec
 
 ---
 
-## ✨ Fun Facts
+##  Fun Facts
 
-- 🕵️ I love building AI tools for real-life efficiency  
-- 🧠 Economics & AI is my favorite combo  
-- 🎯 Currently working on **AI automation bots**, **AI SaaS tools**, and **chat-powered UIs**
+-  I love building AI tools for real-life efficiency  
+- Economics & AI is my favorite combo  
+-  Currently working on **AI automation bots**, **AI SaaS tools**, and **chat-powered UIs**
 
